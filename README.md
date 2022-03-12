@@ -1,5 +1,7 @@
 # Collaborative-Stroke-Refinement
 
+paper : https://arxiv.org/pdf/1904.13268.pdf
+
 #### requirements
 - python 3.7
 - tensorflow 1.15
